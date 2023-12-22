@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="cd_weather_icon">weather icon</string>
+    <string name="Weather">Current weather</string>
+    <string name="select_city">Select City</string>
+    <string name="ic_humidity">humidity icon</string>
+    <string name="humidity">Humidity</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="ic_wind">wind icon</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="ic_sunrise">ic_sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="ic_sunset">sunset icon</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="ic_pressure">pressure icon</string>
+    <string name="ic_visibility">visibility</string>
+    <string name="high_temp">H: %1$s °</string>
+    <string name="low_temp">L: %1$s °</string>
+    <string name="humidity_value">%1$s %%</string>
+    <string name="speed_value">%1$s m/s</string>
+    <string name="visibility_value">%1$s km</string>
+    <string name="pressure_value">%1$s hPa</string>
+</resources>
